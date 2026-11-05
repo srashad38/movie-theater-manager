@@ -1,0 +1,13 @@
+/target/
+/data/
+*.mv.db
+*.trace.db
+*.lock.db
+.env
+.env.*
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+.DS_Store
